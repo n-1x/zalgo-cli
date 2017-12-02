@@ -12,21 +12,15 @@ choose how many different strings to generate, so you can look through them and 
 the one that you like the most.
 
 ## Sample output
-*Changed to double tabs for better display on GitHub.*
 
-N̢̏i̙͒ċ̑h̤̀ô̂l͎ͅa̒ͤs͋ͫ ́́J͗͠ ͎ͅDͯ͝ ͯͭD͙͠e͗̈a̐̐n̩ͮ   Ń̯iͥ͢c̊̓h̙͑o͂̚ĺ͚aͦͬs̵̾ ̺̦J̓̔ ͋̿Ḏ̫ ̝͆D̶̃ȩ̚aͪ͐ṅ͈	  N̽̍i̹ͯċ̃h̎ͫơ̐l̷ͮã̷s̐̍ ̡ͪJ̢̥ ̥͛D̟͊ ̙̘D̮̘eͩͮa͚̥n̥͓
-N̪̮ȋ̼c̴̏ḧ́͐o͒̊ľ̳a͈̍ș̒ ̬͑J̶͟ ̬ͩD̴̎ ̍ͭḊ̋ȩ̀a̢͚n̗ͫ	  N̸̦í̳cͤ͠h̃̀o̗̹l̪̋a͋̈́s̰͈ ̆͘J̰͐ ̠ͅD̡̈ ̮̭D̔͘eͬ͢a̰̱n̿̍	  N͇͗i̦͞cͤ̓ḫ̽ỏ̀l̯͝a̹͑s̸͕ ̩ͧJ̻̅ ̱̏D́̓ ̐͠D̩̒e̪̞a͕̒n̡̡
-N͇ͫḯ̕c̶̩h̙͞o̭͎l̟͚ǎ̓s̡͍ ̸̛J̬ͬ ̭̀D̵̰ ͇͘D̞͌e̢̋â̸n̰͠	  N͇͡i̵ͫcͮ̇h̀́oͨ͞l̲͑ȃͪs͗ͅ ̼͑Jͦ͡ ̔̔D͈͙ ̧ͦD̞̒e̛̕ă̜nͥ̕	  N̸ͦi͆͠c͎̘h̒͛ö͎l͗ͫa͓͜s͖̀ ͟ͅJ͕͛ ͌͞Ḑ͇ ̢̺D͍͞e̓͠a͙̎n̹͈
-N͉̈́ȋ͉c̘͍h͋͘o̻ͭl͑̍a͕͛s̾͟ ̲̓Jͬ̒ ͭ̽D̜̗ ̛̦D͈̖e͈͘a͉̙ń͟	  N̽̈i̱ͨc̀͐h̛̉o̓̿ḷ̐aͥ̃s̓̔ ̷̔J͔͝ ̰̰Ḍ̵ ̛̱Dͬͮȇ̔a̓̚n̲̉	  N̼͝i͎̣c̍ͦh̗ͯǫ͓lͬͅa̦̘s͎̑ ̶ͩJ̖̜ ͓̠D͕͒ ̡̈́D̤͟e̢̲ạ͠n̿ͦ
-N͐ͯī̷ć͏h̎ͬọ͆l͔̗a͋͠s̈͏ ̣ͨJ̖͌ ̤͙Dͨ̓ ̈͡D̵͓e̢͍a̲ͭn͕͊	  N̸ͮiͦ͟c̛̅h̭̎ỏ̖l̼̲a͈̪s̆͏ ̇̐J̩͂ ̢̫D̙̗ ̐́D͇͆e͔ͤa̠͒n̔̄	  N̈́͋iͪ́c̲̬h̳͉o͇̊l̹̬ǎ̴s͈ͫ ̋͊J̆͜ ̞́D̶̀ ̼̀D̋ͤeͬ͒á̺ǹ͋
-N͊͢i̤ͨc͖̲h̷̞ó̌l̻̿a̻̍s̢̺ ͇̽J͗͞ ̨̨D̯̆ ̒͐D̀̊e͌̕a̟̠n̪̱	  N̴ͅi̛͔c̐̕h̻͐o͖͐l͈̪à͡s̙̟ ͇ͨJ̵̚ ͑͑D̲̗ ̢̈́D̎̚e̲̘a̡ͮn̻͐	  Ņ̘i̼ͫc̬̿h̥̐ő̀l̺͛ä͙́sͥ̀ ̡͂J̞͆ ̱̀Dͬͭ ͚̚D́̅ě͍a̹͝n̳̐
-N͗̾i͊́c̨̯h̀̎ǫ̟ļ̪aͤ́s̴̛ ̫͑J̻͈ ̾͟Dͪ͆ ̛̹D̝̋eͬ̿a̍ͯn̰͝	  N͏̯i͙̾c̤̉h̓͞o̖ͩl̆̏a͛̊s̻͎ ̲̱J̬͍ ̂ͦD̩̟ ̸͡D̦̊e̼͒aͧ̓n̦ͮ	  N̻͂iͥ͞ċ͆h̜̟o̡͔l͓͝a̝̭s̪͉ ̤͘J͉̒ ͎̐D̡͒ ̶͍Dͭ̑e̴̳a̘̐n͕̏
-N͖͆i͇͐c͚͚ẖ̅ỏ̈́l̵̏a̧͇sͧ̕ ̥ͭJ̟̚ ̯͝D̈͡ ̞ͧD͕͗e͉̐aͥͫnͧ͘	  N̹ͦi̥ͨc͆ͬh̀̒o̢͝l̘͞aͅͅs̛̒ ͊͠J̬̩ ̱̐D̀̏ ̜̝D͂͐e̎͒aͤ̒n̼͕	  N̄̔i͔̙c̻ͥh̊͝oͩ̐l͈̘a̢͢s̿ͯ ̟̂J̷̷ ̉̉D̀ͩ ͭ͞Ḓ̓e̫̚a̽ͅn̩̠
-N͔ͥi̡͠c̻̃hͦ̕o̵̸l̒̿a͊̅s̢̩ ͦͬJͤ̓ ̞͢D͉̐ ͙̯D̠ͬe̒͌ȧ̟n͍̱	  Nͣ͜i̴̧c̀ͭḫ̞o̜̼l͈ͪa͑̐s̮͢ ̜̃J͈̬ ͦ͘D̻͓ ̨͛D̰̏e̘ͯáͮn̾͋	  N̡̮i̇̕c̴͡h͑͛ö͊l̯̊ȧ̀s̖̑ ̶̹J̟ͭ ͏͇Ď̰ ̛̎D̩͂e̤͑a̖̓n̸̎
-N̯̅i̠͊c̓͜h̃̾ȏ͖ĺ͛ȁ̴s̨͔ ̳̆J̬̻ ̵͋Ḑ͊ ̨̲D̼͜e͒͝a̷̓n͕̪	  Nͪͭī̍ċ͋h̶̙o͖͔l͆ͪa̷͝s͓̉ ̨͉J̘̑ ͋̔D̥͊ ̼͆D̞́è͒aͫ̏n̷͉	  N̛̗i͎͋ç̠h͡͡o̯ͭl͌̅a͋͢s̻̓ ͆̎J̛͒ ̡̩D͇ͩ ̘̯Dͮͦe̸͉a͙̣n̶̞
-N̶͔i̘̻ĉ͙h̺̎o͔͏l͚ͨa̷̸s̛̯ ̡̞J̣́ ̥ͮD̺̙ ̱̔D͂͜e̡ͅa̳ͬn̶̓	  N̅͜i̪ͮcͤ̉h͛͘o̴ͥl͐̋ā͍s͓̚ ̝͝J̶͎ ̬͡D̪ͮ ̠ͯD́͘e͈ͥa̋̓n̖̍	  N̸ͮi̡̖ć̇h̷̳o̻̿l̤̪a̐͞s̜̀ ̦͒J̯͞ ͌̐D͔ͫ ̶̣Ḑͫe̴͈aͦͮn͚̋
-N̍̐ǐ͟c̟̻h́͢oͭ̈́l̖͛a͏̛s͍̃ ͭ͜J̵̀ ̯̖D̩ͮ ̶̇D̜̉e͆͗ã̫ň͜	  Ṉ̶i̵ͤc̮̠h͚̓o̳͔l̲͂aͨ͟sͦ̿ ̸̙Jͯͥ ̅̑D͜͠ ͨ̿Ď͇ȩ̿âͤn̰͂	  N̓͋i̷͢č̱h̲͟õͮl̤̳a̓ͬs̠͘ ̈̊J̵̉ ͏ͪḌ̍ ̠ͫDͬ̚e̯͎a͎͕n̖̆
-Nͪ̌i͎͊c̦̹h͆̎o̓͞l̦͕a̍ͩs͇ͯ ̄ͬJͪ͜ ̷̯D͆̌ ̾́D̡͂e̯͠a͛̄nͨ́	  N͔̕i͕ͣc̣̓h̼̔ő̫lͮ͜å̹s̖͔ ͊̎J͔̌ ͖ͯDͩ͞ ͪ͟D̀͆e̳̟å̡n̻̍	  N̤͙ị̆čͯḣ͏o͐ͨl͇͆a͔͋s̰̏ ̸ͅJ͝ͅ ͯ̀D̶ͫ ͬ͟D͔̂e͔͟a̺͝n̵͕
-Nͦ̋i̭̒c̶̓hͥͧọ͑ļ̀a̴͡s̹̠ ̹̍J̼̚ ̜́D̛͈ ̴̣D̤͈ȩ͓a͉̻nͥ́	  N̮͉į͜c̦͑h͕ͫo̱̽ĺ̦ả̄s͖̺ ̩͔J͙̝ ͎ͦD̀̂ ̣͙D͉ͅe̛ͩa̗̚n͚ͥ	  N̈͢i͊ͨc͙̫h͑͗oͩͅl̦̃a̫̫s͎̎ ̣̙J̧̲ ͂͜Ḑ̺ ̆ͅD̻̑eͮ͌a̹ͭn͘͏
-N̞̈́i̇̂c̖̟h̨̘ȏ̻ḻ͗aͪͭs̤͘ ͛̍J̘̥ ̮ͪD̳͛ ̉̾D̫́ḙ̔a͛̄n̦ͨ	  N̄͂í̶ć̡h̫̐o̱ͩl̜ͦa͆͠s̗̮ ̦͡J̰̒ ͓̚D̷͗ ͉͛D̹͞e͗̓ǎ̻n̨̈́	  Ņ̱ḭ͊c̘̓h̡ͯo̷̺l̶̍a̗ͬs̺̤ ̿̚J̜͂ ̴̐Dͫ͐ ͌͊Ḋ̮e̯ͮa͊͊n͈͢
-Ñ͢i̅̐c̶͔h̰͍ŏ͎l͓̑a̴̸s̹̒ ͉͛J̜͎ ͑ͯD̉̇ ͐͘D̳͒ẽ̬a̵ͪnͯ̓	  N̍̃i̳͑c̼̚h͎ͤo̦͐l̥ͩaͤ͘s̸̡ ̪̙J̢̺ ̪ͮD̥̎ ͍̟D̛̃ę̍a̤͊n̲͙	  Ñ͈ȋ͝cͤ͋h̖ͫó̏l̲̚a͉̔sͥ͝ ͙͚J͚ͦ ͣͪD̀̿ ̠̔D̴̮eͥ̕a͂͋n̜̉
+f͇͇̺yͭ͢͡d̵̓͟r͉̬͕ě͕̅n̓ͯͬa̧̞͐k͔͈ͭ	f̙̥̈y̰͐̆d̨͓́rͧ͝͡e͋̃͘n̸͈̹a̘̋̚k̴̂ͬ	f̣̤͟y̧ͧͩd͕̬̥r̴̊ͅe̢̹̼n̠̖͜a̶̿ͣk̗͒̏
+
+f͉̀̋y̠ͬ̊d̛͐̅r͚̀̆e͎̗͜ǹ̜ͫa̴ͤ̌k̤̓̇	fͦ̃̃y̫̐͡d̟ͭ͐r̐̏̒e̹̾̔ñ̼͘à̙̓k̷͋͒	f̻̙ͪy͇̪ͯdͥ͊̉rͪ̇ͣe̥͗ͫńͩ͜a̮͑͘k̪̮͟
+
+f̶̋̏yͧ̎ͤd̷̛̕r̳̫̀e͎͛ͨn̷̻͜a̛̅̐k̙̮̿	f͉͖̭y̔͛̚ḓ̭͢ṟ̈͜ȇ̱̑n̿͘͟ȁ̗͍k̘̙͌	f̧̝͡y̸͋ͤd͍͋̐r͗̎̿e̸̓͡n̠̥͛a̘̭̬k̜̂ͭ
+
+f̧ͧ̍y̩͙ͤd̟̓̚r̷͕ͬe̟͟͡ṋ̷̼a͂͜͡k̇̉̚	f̬͎ͤÿ́͂̋d̸̟̳r̜̆͒ȇ̶͞n̒́̚a̦̽ͮk̤̦̬	f̙̀͝y̘ͣ̎d̠̝̀ŗ͆͋e͓̔̔n̖ͨ͜aͦ̕͞ķ̩͜
+
+f͒͑̚y͔̳͟d̼̟̚ŕ̗͜e̞̒ͣn̈́͛͞a͓ͩͅk̷͐͝	f̯ͮ̌y̦̠͆dͬͤ͆r̪̚͏é͖̺n̫͑͂a̘̿̾k͈̉͋	f͚̂̀y̬͊̀d̡̩͜r̯̆ͭe͏̖ͦn̙̻̓a̮͒̾k͖͟͡
+
+f̵̮͆y̫̮̿d̀̐̏r̵̤͞ē̝ͥn̻̾͌a̛͊͝k̜ͭ̆	ḟ̵͖y̷̱͜d̶̵̥r̺͈͡e͈̹̥n̡̡̬a̤̺͌k͈̈́̕	f̖̭̱y̰͈͛d͑ͅͅr̞͗̈e̢͇͢n͒ͧͯa̯͝ͅk͇̔ͮ
