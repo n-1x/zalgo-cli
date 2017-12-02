@@ -82,13 +82,13 @@ amountWanted = intInput('Amount to generate: ')
 
 #run the function the requested number of times
 #and format the output
-for i in range(0, amountWanted + 1):
+for i in range(0, amountWanted):
     print(zalgo(string, addsPerChar), end='')
 
     #TODO: Change number of columns based on string size
 
     #print in 3 tabbed columns
-    if ((i+1) % 3 == 0):
+    if ((i+1) % 4 == 0):
         print()
     else:
         print('\t', end='')
