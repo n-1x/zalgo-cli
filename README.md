@@ -11,9 +11,12 @@ program will evenly distribute the combining characters across the string. You c
 choose how many different strings to generate, so you can look through them and find
 the one that you like the most.
 
-## Sample output
-
+## Sample usage
 ```
+$ python zalgo.py 
+Initial string: fydrenak
+Character limit [0 for no limit, min 16]: 32
+Amount to generate: 64
 f̥͋͟ẙ̨̡ď̢̚r̺͎͞e̻̾͋n͔ͯ͟â̭ͯk̸̨̍	f͒̔̍y̯͐ͥḓ̛̈́ŗ̀͊ḛ̾́n̅ͥ͞á̭̼k̭̇͒	f̵̍͟y̷ͮͫd͒ͨ̕r̽͛ͭé́́n͉̱ͪa͍͚͓k͇͓͋	f̧ͪͩy̅ͩͨd́͆̚r̮̿̓e̶͍̯n̠͎͊a͖̾͗k̝̀̈́
 f͖ͭ̇y̟̤̖ḓ̝̇ṛ͇ͅe̬̓͢n͊̕͡ả̘̄k̼ͣͅ	f͕ͬ͘ÿ́̒ͦd̩̣ͨr̴͒͠e̠̬ͬn͇̾ͥà͑͐k̨̓̕	f͖͋̈́y̴͈̽d̗̋̔ŕ̩̭e͙ͤͮñ͛͊ą̠ͨk̷̺ͣ	f̢ͣ̉y̸͕̻d̓̄͜ŗͬ̓eͧ̌͠nͧ͆̕a̟ͭͯk̟̺̽
 f̟͂͡y̮͔͞d͔̣̚r͐͟ͅe̸͙͡ṉ͂ͧà̛ͧk̃ͬ͡	f̛̳͡ÿ̷͎́ď̛̬r̸̢͑e͎̍̐n̤͊̕a̱̠͊k͎ͮ̕	f͇̽̈y̖̤ͨd̖͆́r͖̻̉e̖ͮ͡n̯̣̼a͎̝̍k̜̿ͯ	f̿ͬ̓y̳̜͊dͪ͋̉r̴̠ͧe̝̩͢n̷̞̰ă̔͞k̙̍͑
